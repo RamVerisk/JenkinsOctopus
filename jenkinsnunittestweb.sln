@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jenkinsnunittestweb", "jenkinsnunittestweb\jenkinsnunittestweb.csproj", "{31FC5316-63C8-4166-948F-AB2D1C0317DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fortest", "fortest\fortest.csproj", "{9DE694C2-774B-49B5-941F-719BC64323F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FC5316-63C8-4166-948F-AB2D1C0317DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FC5316-63C8-4166-948F-AB2D1C0317DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FC5316-63C8-4166-948F-AB2D1C0317DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FC5316-63C8-4166-948F-AB2D1C0317DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE694C2-774B-49B5-941F-719BC64323F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE694C2-774B-49B5-941F-719BC64323F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE694C2-774B-49B5-941F-719BC64323F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE694C2-774B-49B5-941F-719BC64323F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ED7BE99-78A7-4028-AB97-2045A210AB7D}
+	EndGlobalSection
+EndGlobal

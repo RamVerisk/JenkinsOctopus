@@ -1,0 +1,8 @@
+C:\Users\i25475\source\repos\jenkinsnunittestweb\sumtwonumbers\bin\Debug\netstandard2.0\sumtwonumbers.deps.json
+C:\Users\i25475\source\repos\jenkinsnunittestweb\sumtwonumbers\bin\Debug\netstandard2.0\sumtwonumbers.dll
+C:\Users\i25475\source\repos\jenkinsnunittestweb\sumtwonumbers\bin\Debug\netstandard2.0\sumtwonumbers.pdb
+C:\Users\i25475\source\repos\jenkinsnunittestweb\sumtwonumbers\obj\Debug\netstandard2.0\sumtwonumbers.csproj.CoreCompileInputs.cache
+C:\Users\i25475\source\repos\jenkinsnunittestweb\sumtwonumbers\obj\Debug\netstandard2.0\sumtwonumbers.AssemblyInfoInputs.cache
+C:\Users\i25475\source\repos\jenkinsnunittestweb\sumtwonumbers\obj\Debug\netstandard2.0\sumtwonumbers.AssemblyInfo.cs
+C:\Users\i25475\source\repos\jenkinsnunittestweb\sumtwonumbers\obj\Debug\netstandard2.0\sumtwonumbers.dll
+C:\Users\i25475\source\repos\jenkinsnunittestweb\sumtwonumbers\obj\Debug\netstandard2.0\sumtwonumbers.pdb
